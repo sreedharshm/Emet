@@ -1,0 +1,25 @@
+/* General Product Page Styling */
+.product-page {
+    font-family: 'Arial', sans-serif;
+    background-color: white;
+    padding: 40px 20px;
+    text-align: center;
+    margin:  5% auto;
+  }
+  
+  .product-page h1 {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 40px;
+  }
+  
+  /* Product List Section */
+  .product-page__list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  /* Product Card Styling */
+  
