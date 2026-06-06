@@ -4,6 +4,7 @@ import HomePage from "./Homepage"; // Import your HomePage component
 import ProductPage from "./ProductPage"; // Import your ProductPage component
 import Navbar from "./Navbar"; // Import Navbar component
 import Footer from "./Footer";
+import Adsense from "./Adsense";
 
 const App: React.FC = () => {
   return (
