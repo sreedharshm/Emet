@@ -14,7 +14,9 @@ const App: React.FC = () => {
         <Route path="/products" element={<ProductPage />} /> 
         <Route path="/dummy" element={<ProductPage />} /> 
       </Routes>
+       <Adsense />
       <Footer />
+      
     </Router>
   );
 };
